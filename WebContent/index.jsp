@@ -8,8 +8,8 @@
 </head>
 <body>
 	<form action="sayHi.do" method="GET">
-		<input type="text" name="name"> <input type="submit"
-			value="PUSH ME">
+		NAME: <input type="text" name="name"> <input type="submit"
+			value="DONE">
 	</form>
 	
 	${greeting}
